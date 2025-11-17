@@ -1,5 +1,5 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## NAME: INFANCIA FELCY P
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
@@ -92,3 +92,4 @@ Largest of three number is 15
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
+
