@@ -1,5 +1,5 @@
 # Experiment 6: Joins
-
+## NAME:INFANCIA FELCY P
 ## AIM
 To study and implement different types of joins.
 
